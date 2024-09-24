@@ -1,0 +1,31 @@
+.card {
+    background-color: #fff;
+    color: #0C2F62;
+    padding: 24px;
+    border-radius: 20px;
+    width: 300px;
+    text-align: left;
+    width: 400px;
+  }
+  
+  .card-icon {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  

@@ -1,0 +1,18 @@
+.care24-box{
+    display: flex;
+    width: 100%;
+    padding-top: 40px;
+}
+.care24-left{
+    width: 100%;
+    padding: 0px 5cqmax;
+}
+.care24-right{
+    width: 90%;
+    background-color: #F5F5F5;
+    margin: 10px 15px 20px 10px;
+    border-radius: 20px;
+}
+.care24-left img{
+    width: 100%;
+} 

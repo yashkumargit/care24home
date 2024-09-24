@@ -1,0 +1,25 @@
+.highlights-container {
+    background-color:#182440;
+    padding: 50px 20px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+  
+  .cards-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 0px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #fff;
+  }
+  

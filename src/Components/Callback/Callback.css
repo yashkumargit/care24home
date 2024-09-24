@@ -1,0 +1,37 @@
+.callback-form-container {
+    background-color: #F5F5F5;
+    padding: 30px 30px 0px 30px;
+    border-radius: 15px;
+}
+.callback-form-container h2{
+    color: #007bff;
+}
+.callback-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-group label {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.text-input, .select-input, .textarea-input {
+    width: 100%;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #F5F5F5;
+}
+
+.text-input:focus, .select-input:focus, .textarea-input:focus {
+    border-color: #ff9f00;
+    outline: none;
+}
+
+.textarea-input {
+    height: 30px;
+}
+
